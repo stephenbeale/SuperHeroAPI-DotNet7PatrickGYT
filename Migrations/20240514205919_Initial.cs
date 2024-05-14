@@ -5,6 +5,7 @@
 namespace SuperHeroAPI_DotNet7PatrickGYT.Migrations
 {
     /// <inheritdoc />
+    /// 
     public partial class Initial : Migration
     {
         /// <inheritdoc />
